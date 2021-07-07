@@ -1,0 +1,18 @@
+@media screen and (max-width:700px) {
+    .container{
+        flex-direction: column
+    }
+    .botao{
+        margin-top: 10px;
+    }
+    .filme_principal .titulo{
+        font-size: 60px;
+    }
+
+}
+@media screen and (min-width: 1100px) {
+    .descricao{
+        width: 50%;
+    }
+    
+}
